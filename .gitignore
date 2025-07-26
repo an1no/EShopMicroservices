@@ -416,3 +416,16 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# JetBrains Rider/IntelliJ project files
+.idea/
+vcs.xml
+
+# macOS Finder files
+.DS_Store
+
+# Common build/output directories
+dist/
+coverage/
+tmp/
+temp/
